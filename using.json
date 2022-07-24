@@ -1,0 +1,9 @@
+{
+  "pkgs": {
+    "moveresize": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/Move-Resize.lua",
+    "winformlib": "https://raw.githubusercontent.com/G-A-Development-Team/WinFormAPI/main/WinFormLib.lua",
+    "winformcolors": "https://raw.githubusercontent.com/G-A-Development-Team/WinFormAPI/main/WinFormColors.lua",
+    "winformtoolbox": "https://raw.githubusercontent.com/G-A-Development-Team/WinFormAPI/main/WinFormToolbox.lua",
+    "winform": "https://raw.githubusercontent.com/G-A-Development-Team/WinFormAPI/main/WinForm.lua"
+  }
+}
