@@ -6,7 +6,7 @@
     "WinFormToolbox": "https://raw.githubusercontent.com/G-A-Development-Team/WinFormAPI/main/WinFormToolbox.lua",
     "WinForm": "https://raw.githubusercontent.com/G-A-Development-Team/WinFormAPI/main/WinForm.lua",
     "BombAPI": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/BombAPI.lua",
-    "SwitchTeamAPI": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/SwitchTeamAPI.lua",
+    "SwitchTeamAPIs": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/SwitchTeamAPI.lua",
     "GuiCustom": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/gut.custom.lua",
     "Overlay": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/OverlayAPI.lua"
   }
