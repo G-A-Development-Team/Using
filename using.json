@@ -10,6 +10,7 @@
     "SwitchTeamAPI": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/SwitchTeamAPI.lua",
     "GuiCustom": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/gut.custom.lua",
     "Analytics": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/Analytics.lua",
+    "VisualsAPI": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/VisualsAPI.lua",
     "Overlay": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/OverlayAPI.lua"
   }
 }
