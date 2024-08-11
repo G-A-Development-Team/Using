@@ -11,6 +11,7 @@
     "GuiCustom": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/gut.custom.lua",
     "Analytics": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/Analytics.lua",
     "VisualsAPI": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/VisualsAPI.lua",
+    "Package_ffi": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/ffi/package.lua",
     "Overlay": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/OverlayAPI.lua"
   }
 }
