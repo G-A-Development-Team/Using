@@ -9,6 +9,7 @@
     "BombAPIV2": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/BombAPIV2.lua",
     "SwitchTeamAPI": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/SwitchTeamAPI.lua",
     "GuiCustom": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/gut.custom.lua",
+    "Analytics": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/Analytics.lua",
     "Overlay": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/OverlayAPI.lua"
   }
 }
