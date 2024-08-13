@@ -15,6 +15,7 @@
     "Renderer": "https://raw.githubusercontent.com/G-A-Development-Team/NoAWUI/main/libs/api/Renderer.lua",
     "HTMLParser": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/HTMLParser.lua",
     "HashTable": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/HashTable.lua",
+    "LoadLocal": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/LoadLocal.lua",
     "Overlay": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/OverlayAPI.lua"
   }
 }
