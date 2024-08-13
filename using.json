@@ -14,6 +14,7 @@
     "Package_ffi": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/ffi/package.lua",
     "Renderer": "https://raw.githubusercontent.com/G-A-Development-Team/NoAWUI/main/libs/api/Renderer.lua",
     "HTMLParser": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/HTMLParser.lua",
+    "HashTable": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/HashTable.lua",
     "Overlay": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/OverlayAPI.lua"
   }
 }
