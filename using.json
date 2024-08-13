@@ -13,6 +13,7 @@
     "VisualsAPI": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/VisualsAPI.lua",
     "Package_ffi": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/ffi/package.lua",
     "Renderer": "https://raw.githubusercontent.com/G-A-Development-Team/NoAWUI/main/libs/api/Renderer.lua",
+    "HTMLParser": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/HTMLParser.lua",
     "Overlay": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/OverlayAPI.lua"
   }
 }
