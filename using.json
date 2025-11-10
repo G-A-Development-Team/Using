@@ -18,6 +18,8 @@
     "LoadLocal": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/LoadLocal.lua",
     "MoreLibs": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/MoreLibs.lua",
     "Base64": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/base64.lua",
-    "Overlay": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/OverlayAPI.lua"
+    "Overlay": "https://raw.githubusercontent.com/G-A-Development-Team/libs/main/OverlayAPI.lua",
+    "sm_plus_control": "https://raw.githubusercontent.com/G-A-Development-Team/GACenter/refs/heads/main/sm_plus_control.lua",
+    "text_blocks_control": "https://raw.githubusercontent.com/G-A-Development-Team/GACenter/refs/heads/main/text_blocks_control.lua"
   }
 }
